@@ -1,0 +1,167 @@
+#column_container {
+	width:1000px;
+	margin:0px auto;
+	overflow:auto;
+	padding: 0px 0px 40px 0px;
+}
+
+#column_container div.column {
+	width:200px;
+	margin:0;
+	padding:0;
+	float:left;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#column_container h3.column_title {
+	text-align: center;
+	font-family: brannboll fet;
+	font-size: 150%;
+	padding:10px;
+	color:#B7210D;
+}
+
+#column_container #plan h3 {
+	color:#000;
+}
+
+#column_container ul {
+	width:100%;
+	list-style:none;
+	margin:10px 0 0 0;
+	padding:0;
+}
+#column_container ul li {
+	list-style:none;
+	margin:10px;
+	padding-top:0;
+	padding-bottom:0;
+	text-align: center;
+	border:2px solid #fff;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+}
+#column_container li a {
+	display:block;
+	height: auto;
+	width: 100%;
+	margin: auto 0;
+	padding-top: 5px;
+	padding-bottom:5px;
+}
+
+#column_container a:link {
+	color: black;
+	text-decoration: none;
+	text-align: center;
+}
+#column_container a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+#column_container a:hover {
+	/*color:#fff;*/
+	font-weight: bold; 
+	background:#DBDBDB;
+	text-decoration:none;
+}
+#column_container ul li:hover {
+	color:369;
+}
+
+#column_container a:active {
+	color:#369;
+	text-decoration: none;
+}
+
+#content_wrap {
+	width:1100px;
+	margin:0px auto;
+	overflow:auto;
+	padding: 0px 0px 40px 0px;
+}
+
+#content_wrap #left_column {
+	width:800px;
+	margin:0;
+	padding:0;
+	float:left;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#content_wrap #left_column #how {
+	width:400px;
+	margin:0;
+	padding:0;
+	float:left;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#content_wrap #left_column #image {
+	width:400px;
+	margin:0;
+	padding:0;
+	float:left;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#content_wrap #right_column {
+	width:290px;
+	margin:0;
+	padding-left: 10px;
+	float:left;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#content_wrap #right_column #whats_next {
+	width:145px;
+	margin:0;
+	padding: 0;
+	float:left;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#content_wrap #right_column #recommended {
+	width:145px;
+	margin:0;
+	padding:0;
+	float:left;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#content_wrap img.ws_image {
+	width: 350px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#content_wrap h3.worksheet_header {
+	color:#B7210D;
+	font-family: brannboll fet;
+}
+
+#content_wrap #how_list h4 {
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+#content_wrap #how_list p {
+	padding: 0px;
+	margin: 2px 0px 12px 0px;
+	width: 365px;
+}
+
+#content_wrap ol {
+	width:100%;
+	margin:10px 0 0 0;
+/*	padding:0;*/
+}
